@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">parcial</string>
+    <string name="cual_va_a_ser_la_nota_del_alumno">Cual va a ser la nota del alumno?</string>
+    <string name="enviar_notificacion">Enviar Notificacion</string>
+    <string name="ingrese_el_nombre">Ingrese el Nombre</string>
+</resources>

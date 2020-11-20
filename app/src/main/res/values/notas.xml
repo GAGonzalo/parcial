@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+        <item>Nota: 1</item>
+        <item>Nota: 2</item>
+        <item>Nota: 3</item>
+        <item>Nota: 4</item>
+        <item>Nota: 5</item>
+        <item>Nota: 6</item>
+        <item>Nota: 7</item>
+        <item>Nota: 8</item>
+        <item>Nota: 9</item>
+        <item>Nota: 10</item>
+    </string-array>
+</resources>
